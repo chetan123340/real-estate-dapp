@@ -1,33 +1,33 @@
 {
-    "name": "Luxury NYC Penthouse",
-    "address": "157 W 57th St APT 49B, New York, NY 10019",
-    "description": "Luxury Penthouse located in the heart of NYC",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/1.png",
+    "name": "Luxury Mumbai Apartment",
+    "address": "Sea View Tower, Worli, Mumbai, Maharashtra 400018",
+    "description": "A premium sea-facing apartment in Mumbai's upscale Worli locality.",
+    "image": "https://red-official-urial-988.mypinata.cloud/ipfs/QmPdsnGzGAcUMSFEMRcwrqxHeghJpZsoqCdNr4SqpaiNpP/1.jpg",
     "id": "1",
     "attributes": [
         {
             "trait_type": "Purchase Price",
-            "value": 20
+            "value": 10
         },
         {
             "trait_type": "Type of Residence",
-            "value": "Condo"
+            "value": "Apartment"
         },
         {
             "trait_type": "Bed Rooms",
-            "value": 2
-        },
-        {
-            "trait_type": "Bathrooms",
             "value": 3
         },
         {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
             "trait_type": "Square Feet",
-            "value": 2200
+            "value": 1500
         },
         {
             "trait_type": "Year Built",
-            "value": 2013
+            "value": 2020
         }
     ]
 }

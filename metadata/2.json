@@ -1,8 +1,8 @@
 {
-    "name": "Architectural CA Modern Home",
-    "address": "70780 Tamarisk Ln, Rancho Mirage, CA 92270",
-    "description": "Beautiful modern home in Rancho Mirage",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/2.png",
+    "name": "Elegant Bangalore Villa",
+    "address": "Palm Meadows, Whitefield, Bengaluru, Karnataka 560066",
+    "description": "A modern villa in the serene and exclusive Palm Meadows gated community.",
+    "image": "https://red-official-urial-988.mypinata.cloud/ipfs/QmPdsnGzGAcUMSFEMRcwrqxHeghJpZsoqCdNr4SqpaiNpP/2.jpg",
     "id": "2",
     "attributes": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "trait_type": "Type of Residence",
-            "value": "Single family residence"
+            "value": "Villa"
         },
         {
             "trait_type": "Bed Rooms",
@@ -23,11 +23,11 @@
         },
         {
             "trait_type": "Square Feet",
-            "value": 3979
+            "value": 3500
         },
         {
             "trait_type": "Year Built",
-            "value": 1980
+            "value": 2018
         }
     ]
 }

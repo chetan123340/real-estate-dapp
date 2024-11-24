@@ -23,8 +23,9 @@ async function main() {
   console.log(`Minting 3 properties...\n`)
 
   for (let i = 0; i < 3; i++) {
-    const transaction = await realEstate.connect(seller).mint(`https://ipfs.io/ipfs/QmQVcpsjrA6cr1iJjZAodYwmPekYgbnXGo4DFubJiLc2EB/${i + 1}.json`)
+    const transaction = await realEstate.connect(seller).mint(`https://red-official-urial-988.mypinata.cloud/ipfs/QmWHZLgPz5qWkJN9fsJSw7awdYYb6heRzg8K2tWUnBjg1j/${i + 1}.json`)
     await transaction.wait()
+    console.log(`Minted property with token ID: ${i + 1}`);
   }
 
   // Deploy Escrow

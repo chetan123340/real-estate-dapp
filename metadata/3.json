@@ -1,33 +1,33 @@
 {
-    "name": "WA Nature Home",
-    "address": "183 Woodland Drive, Camano Island, WA 98282",
-    "description": "Comfy island home on Camano Island",
-    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/3.png",
+    "name": "Jaipur Heritage Haveli",
+    "address": "Pink City, Jaipur, Rajasthan 302001",
+    "description": "A majestic heritage haveli that reflects Jaipur's royal legacy.",
+    "image": "https://red-official-urial-988.mypinata.cloud/ipfs/QmPdsnGzGAcUMSFEMRcwrqxHeghJpZsoqCdNr4SqpaiNpP/3.jpg",
     "id": "3",
     "attributes": [
         {
             "trait_type": "Purchase Price",
-            "value": 10
+            "value": 25
         },
         {
             "trait_type": "Type of Residence",
-            "value": "Single family residence"
+            "value": "Haveli"
         },
         {
             "trait_type": "Bed Rooms",
-            "value": 3
+            "value": 6
         },
         {
             "trait_type": "Bathrooms",
-            "value": 3
+            "value": 5
         },
         {
             "trait_type": "Square Feet",
-            "value": 2202
+            "value": 5000
         },
         {
             "trait_type": "Year Built",
-            "value": 2020
+            "value": 1920
         }
     ]
 }
